@@ -179,7 +179,7 @@ The project highlights strong SQL querying and analytical skills while showcasin
 ### 🔗**Mayur Pundkare**
 
 Aspiring Data Analyst
-## #📧 Email: pundkaremayur@gmail.com
+### 📧 Email: pundkaremayur@gmail.com
 
 ### 🔗 LinkedIn: www.linkedin.com/in/mayur-pundkare
 
