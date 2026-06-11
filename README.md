@@ -138,12 +138,19 @@ Advanced SQL Operations Used
 # **📊 Project Workflow**
 
 1.Data Collection
+
 2.Data Cleaning
+
 3.CSV Import into MySQL
+
 4.Database & Table Creation
+
 5.Data Validation
+
 6.SQL Query Development
+
 7.Business Analysis
+
 8.Insight Generation
 
 
