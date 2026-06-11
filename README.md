@@ -8,12 +8,12 @@ This project demonstrates practical implementation of SQL concepts, data analysi
 
 **🎯 Project Objectives**
 
-✅ Analyze wedding venue data using SQL
-✅ Identify top-rated and most-reviewed venues
-✅ Compare pricing trends across different locations
-✅ Evaluate venue capacity and room availability
-✅ Generate business insights using SQL queries
-✅ Strengthen practical understanding of SQL and database concepts
+✅ Analyze wedding venue data using SQL.
+✅ Identify top-rated and most-reviewed venues.
+✅ Compare pricing trends across different locations.
+✅ Evaluate venue capacity and room availability.
+✅ Generate business insights using SQL queries.
+✅ Strengthen practical understanding of SQL and database concepts.
 
 **🗂️ Database Structure**
 The database consists of a single table:
