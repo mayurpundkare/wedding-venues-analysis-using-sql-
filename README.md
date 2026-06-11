@@ -155,11 +155,15 @@ The project highlights strong SQL querying and analytical skills while showcasin
 
 # **🚀 Future Scope**
 
-✅ Build an Interactive Power BI Dashboard
-✅ Develop SQL Views & Stored Procedures
-✅ Create an Automated Reporting System
-✅ Perform Predictive Pricing Analysis
-✅ Integrate the Database with a Web Application
+✅ Build an Interactive Power BI Dashboard.
+
+✅ Develop SQL Views & Stored Procedures.
+
+✅ Create an Automated Reporting System.
+
+✅ Perform Predictive Pricing Analysis.
+
+✅ Integrate the Database with a Web Application.
 
 
 
@@ -168,6 +172,8 @@ The project highlights strong SQL querying and analytical skills while showcasin
 🔗**Mayur Pundkare**
 Aspiring Data Analyst
 📧 Email: pundkaremayur@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/mayur-pundkare
+
 💻 Skills: Python | SQL | Power BI | Data Analytics
 
