@@ -1,12 +1,12 @@
 # **🏛️ Wedding Venue Data Analysis using MySQL**
 
-#**📌 Project Overview**
+# **📌 Project Overview**
 
 The Wedding Venue Data Analysis project is a SQL-based data analysis project that explores and analyzes wedding venue information from the WedMeGood dataset. 
 The project focuses on extracting meaningful business insights related to venue ratings, reviews, pricing, guest capacity, room availability, and destinations using MySQL.
 This project demonstrates practical implementation of SQL concepts, data analysis techniques, and business intelligence for real-world decision-making.
 
-#**🎯 Project Objectives**
+# **🎯 Project Objectives**
 
 ✅ Analyze wedding venue data using SQL.
 
@@ -20,7 +20,7 @@ This project demonstrates practical implementation of SQL concepts, data analysi
 
 ✅ Strengthen practical understanding of SQL and database concepts.
 
-#**🗂️ Database Structure**
+# **🗂️ Database Structure**
 The database consists of a single table:
 
 | Column Name     | Description                |
@@ -36,7 +36,7 @@ The database consists of a single table:
 | Destination     | Venue Location             |
 | Amenities_+more | Available Amenities        |
 
-#**🔗 Database Design**
+# **🔗 Database Design**
 
 The project demonstrates:
 ✔️ Data Import from CSV.
@@ -49,7 +49,7 @@ The project demonstrates:
 
 ✔️ Business Insight Generation.
 
-#**⚙️ Key Features**
+# **⚙️ Key Features**
 
 ✅ Venue Rating Analysis.
 
@@ -67,7 +67,7 @@ The project demonstrates:
 
 ✅ Business Insight Generation using SQL.
 
-#**🛠️ SQL Concepts Implemented**
+# **🛠️ SQL Concepts Implemented**
 Advanced SQL Operations Used
 
 ✔️ SELECT
@@ -90,7 +90,7 @@ Advanced SQL Operations Used
 
 ✔️ Filtering & Sorting
 
-#**📊 Business Analysis Performed**
+# **📊 Business Analysis Performed**
 
 📈 Identified Top-Rated Venues.
 
@@ -110,7 +110,7 @@ Advanced SQL Operations Used
 
 💵 Compared Venues with Above-Average Menu Prices.
 
-#**📈 Key Insights**
+# **📈 Key Insights**
 
 🔹 Highly rated venues generally attract more customer engagement.
 
@@ -124,7 +124,7 @@ Advanced SQL Operations Used
 
 🔹 SQL-based analysis enables data-driven venue selection and business decision-making.
 
-#**🛠️ Tools & Technologies Used**
+# **🛠️ Tools & Technologies Used**
 
 | Technology      | Purpose                     |
 | --------------- | --------------------------- |
@@ -135,7 +135,7 @@ Advanced SQL Operations Used
 | Git & GitHub    | Version Control & Portfolio |
 
 
-#**📊 Project Workflow**
+# **📊 Project Workflow**
 
 1.Data Collection
 2.Data Cleaning
@@ -147,13 +147,13 @@ Advanced SQL Operations Used
 8.Insight Generation
 
 
-#**✅ Conclusion**
+# **✅ Conclusion**
 
 This project demonstrates the practical application of SQL in analyzing real-world wedding venue data. Using filtering, 
 aggregation, subqueries, and window functions, meaningful insights were generated on ratings, reviews, pricing, and venue capacity. 
 The project highlights strong SQL querying and analytical skills while showcasing the ability to transform raw data into actionable business insights.
-#
-**🚀 Future Scope**
+
+# **🚀 Future Scope**
 
 ✅ Build an Interactive Power BI Dashboard
 ✅ Develop SQL Views & Stored Procedures
